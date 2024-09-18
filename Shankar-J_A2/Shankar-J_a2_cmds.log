@@ -51,9 +51,7 @@
    51  vi Collaborators.md
    52  git commit -m "Jyothi Shankar added to collaborators"
    53  git push
-   54  git remote set-url origin https:/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@github.com/jyothi-sh/a1-collab-jyothi-sh
    55  git push
-   56  git remote set-url origin https://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@github.com/jyothi-sh/a1-collab-jyothi-sh
    57  git push
    58  ls
    59  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
