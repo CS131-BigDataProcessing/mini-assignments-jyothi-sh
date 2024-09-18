@@ -1,0 +1,5 @@
+     13      39
+
+### the number 13 tells us that the phrase "Good luck, babe" shows up in the textfile 13 times (not case sensitive)
+
+### the number 39 tells us that the word count of the 13 phrases is 39
