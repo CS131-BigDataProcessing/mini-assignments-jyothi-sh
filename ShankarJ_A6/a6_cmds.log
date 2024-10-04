@@ -1,0 +1,760 @@
+    1  passwd
+    2  ls
+    3  pwd
+    4  git clone git@github.com:jyothi-sh/a1-collab-jyothi-sh.git
+    5  git clone https://github.com/jyothi-sh/a1-collab-jyothi-sh.git
+    6  git branch username-colab
+    7  git branch a1-collab-jyothi-sh
+    8  ls
+    9  cd a1-collab-jyothi-sh
+   10  la
+   11  ls
+   12  git branch username-colab
+   13  ls
+   14  git branch username-colab*
+   15  ls
+   16  vi Collaborators.md
+   17  git status
+   18  cd Collaborators.md
+   19  vi Collaborators.md
+   20  ls
+   21  cd a1-collab-jyothi-sh
+   22  ls
+   23  git push --set-upstream origin username-colab
+   24  git pull origin main
+   25  git checkout main
+   26  git merge username-colab
+   27  git add Collaborators.md
+   28  git commit -m "Jyothi Shankar added to collaborators"
+   29  git push --set-upstream origin username-colab
+   30  ls
+   31  vi README.md
+   32  ls -F
+   33  ls -latr
+   34  ls 
+   35  ls -l
+   36  ls -ltr
+   37  ls
+   38  cd a1-collab-jyothi-sh
+   39  ls
+   40  vi Collaborators.md
+   41  git pull origin main
+   42  git commit -m "Jyothi Shankar added to collaborators"
+   43   git config user.email "jyothishankar03@gmail.com"
+   44  git config user.name "Jyothi Shankar"
+   45  git commit -m "Jyothi Shankar added to collaborators"
+   46  git push
+   47  ls
+   48  cd a1-collab-jyothi-sh
+   49  ls
+   50  cd Collaborators.md
+   51  vi Collaborators.md
+   52  git commit -m "Jyothi Shankar added to collaborators"
+   53  git push
+   54  git remote set-url origin https:/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@github.com/jyothi-sh/a1-collab-jyothi-sh
+   55  git push
+   56  git remote set-url origin https://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@github.com/jyothi-sh/a1-collab-jyothi-sh
+   57  git push
+   58  ls
+   59  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+   60  ls
+   61  cd CS131_fa24_datafiles
+   62  ls
+   63  cd Lec02
+   64  ls
+   65  grep -o '\bwor\w*' goodluck.txt
+   66  grep -o '\bdred\w*' filename.txt
+   67  grep -o '\bdred\w*' goodluck.txt
+   68  clear
+   69  vi goodluck.txt
+   70  grep -o "/b
+   71  LKOk;ddc
+   72  wq
+   73  wq
+   74  ls
+   75  cd CS131_fa24_datafiles
+   76  cd
+   77  cd CS131_fa24_datafiles
+   78  ls
+   79  cd Lec02
+   80  ls
+   81  grep -o '\bwor\w*' goodluck.txt
+   82  grep -o '\bdred\w*' goodluck.txt
+   83  ls
+   84  cd CS131_fa24_datafiles
+   85  ls
+   86  cd Lec02
+   87  ls
+   88  grep -o '\bwor\w*' goodluck.txt
+   89  grep -o '\w*dred\w*' goodluck.txt
+   90  l
+   91  ls
+   92  cd CS131_fa24_datafiles
+   93  cd Loec02
+   94  cd Lec02
+   95  ls
+   96  clea
+   97  clear
+   98  grep -o '\bwor\w*' goodluck.txt
+   99  grep -o '\w*dred\w*' goodluck.txt
+  100  grep '^Good luck, babe$' goodluck.txt
+  101  grep -x "Good luck, babe" goodluck.txt
+  102  cd ..
+  103  shankar_jyothi>_A4_shell
+  104  Shankar_Jyothi_A4_shell
+  105  mkdir Shankar_Jyothi_A4_shell
+  106  cd mkdir Shankar_Jyothi_A4_shell
+  107  cd Shankar_Jyothi_A4_shell
+  108  vi class_practice.sh
+  109  sh class_practice.sh Jyothi
+  110  sh class_practice.sh Singaram
+  111  ls
+  112  cd class_practice.sh
+  113  vi class_practice.sh
+  114  grep -x "Good luck, babe[[:space:]]*" goodluck.txt
+  115  cd ..
+  116  ls
+  117  vi CS131_fa24_datafiles
+  118  ls
+  119  cd CS131_fa24_datafiles
+  120  ls
+  121  cd Lec02
+  122  grep -o '\bwor\w*' goodluck.txt
+  123  grep -o '\w*dred\w*' goodluck.txt
+  124  grep -x 'Good luck, babe' goodluck.txt | wc -l -w
+  125  grep -x 'Good luck, babe' goodluck.txt
+  126  grep -v 'Good luck, babe' goodluck.txt
+  127   grep -o '\w*Good luck, babe\w*' goodluck.txt
+  128  cd ..
+  129  source ~/.bashrc
+  130  ls
+  131  vi ~/.bashrc
+  132  ll
+  133  ls
+  134  cd CS131_fa24_datafiles
+  135  ls
+  136  cd Lec02
+  137  ls
+  138  grep -x 'Good luck, babe' goodluck.txt | wc -l -w
+  139  grep -x 'Good luck, babe' goodluck.txt
+  140  grep -x 'Good luck, babe' searchfile.txt
+  141  ls
+  142  grep -x 'Good luck, babe' searchfile.txt
+  143  grep -x 'Good luck, babe' goodluck.txt
+  144  ls
+  145  egrep “^(0|1)+ [a-zA-Z]+$” goodluck.txt
+  146  grep -x 'Good luck, babe' searchfile.txt | wc -l -w
+  147  grep -x 'Good luck, babe' goodluck.txt | wc -l -w
+  148  grep -o '\w*Good luck, babe\w*' goodluck.txt | wc -l -w
+  149   grep -o '\w*Good luck, babe\w*' goodluck.txt | wc -l -w > <Shankar-J>_a2_counts.txt
+  150  grep -o '\w*Good luck, babe\w*' goodluck.txt | wc -l -w > Shankar-J_a2_counts.txt
+  151  ls
+  152  vi Shankar-J_a2_counts.txt
+  153  cd ..
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd a1-collab-jyothi-sh
+  158  ls
+  159  cd Collaborators.md
+  160  ls
+  161  vi Collaborators.md
+  162  cd ..
+  163  ls
+  164  cd Shankar_Jyothi_A4_shell
+  165  vi
+  166  ls
+  167  cd ..
+  168  ls
+  169  cd CS131_fa24_datafiles/
+  170  ls
+  171  cd Lec02
+  172  ls
+  173  vi Shankar-J_a2_counts.txt 
+  174  history > Shankar-J_a2_cmds.log
+  175  ls
+  176  cd ..
+  177  ls
+  178  cd ..
+  179  ls
+  180  cd CS131_fa24_datafiles
+  181  ls
+  182  cd ..
+  183  ls
+  184  cd CS131_fa24_datafiles/
+  185  ls
+  186  mkdir Shankar-J_A2
+  187  mv Shankar-J_a2_counts.txt Shankar-J_a2_cmds.log Shankar-J_A2/
+  188  mv Shankar-J_a2_counts.txt Shankar-J_A2/
+  189  ls
+  190  cd Lec02
+  191   mv Shankar-J_a2_counts.txt Shankar-J_a2_cmds.log Shankar-J_A2/
+  192  mv Shankar-J_a2_counts.txt Shankar-J_a2_cmds.log Shankar-J_A2
+  193  cd ..
+  194  Shankar-J_A2
+  195  mv Shankar-J_a2_counts.txt Shankar-J_a2_cmds.log Shankar-J_A2
+  196  ls
+  197  cd Shankar-J_A2
+  198  ls
+  199  cd Lec02
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd Lec02
+  204  ls
+  205  cd CS131_fa24_datafiles
+  206  cls
+  207  ls
+  208  cd Lec02
+  209  ls
+  210  CS131_fa24_datafiles
+  211  lks
+  212  ls
+  213  cd CS131_fa24_datafiles
+  214  ls
+  215  cd Lec02
+  216  ls
+  217  mv example.txt Shankar-J_A2
+  218  ls
+  219  vi Shankar-J_a2_counts.txt
+  220  vi Shankar-J_a2_cmds.log
+  221  ls
+  222  vi Shankar-J_a2_cmds.log
+  223  ls
+  224  vi goodluck.txt
+  225  cd ..
+  226  ls
+  227  cd Shankar-J_A2
+  228  ls
+  229  cd ..
+  230  ls
+  231  cd Lec02
+  232  ls
+  233  grep -o '\w*Good luck, babe\w*' goodluck.txt
+  234  grep -io '\w*Good luck, babe\w*' goodluck.txt
+  235  vi goodluck.txt
+  236  ls
+  237  vi Shankar-J_a2_counts.txt
+  238  rm Shankar-J_a2_counts.txt
+  239   grep -io '\w*Good luck, babe\w*' goodluck.txt | wc -l -w > Shankar-J_a2_counts.txt
+  240  ls
+  241  vi Shankar-J_a2_counts.txt
+  242  ls
+  243  cd CS131_fa24_datafiles
+  244  ls
+  245  cd Shankar-J_A2
+  246  ls
+  247  cd ..
+  248  cd Lec02
+  249  ls
+  250  mv Shankar-J_a2_cmds.log /CS131_fa24_datafiles/Shankar-J_A2/
+  251  mv Shankar-J_a2_cmds.log CS131_fa24_datafiles/Shankar-J_A2/
+  252  clear
+  253  cd ..
+  254  cd..
+  255  cd ..
+  256  ls
+  257  pwd
+  258  cd CS131_fa24_datafiles
+  259  ls
+  260  ls Lec02
+  261  mv Lec02/Shankar* Shankar-J_A2/
+  262  ls
+  263  ls Lec02
+  264  ls Shankar-J_A2
+  265  ls
+  266  cd CS131_fa24_datafiles
+  267  ls
+  268  git add .
+  269  git commit -m "A2 assignment"
+  270  git config --global user.email "jyothishankar03@gmail.com"
+  271  git config --global user.name "Jyothi Shankar"
+  272  git commit -m "A2 assignment"
+  273  git pull origin main
+  274  git push origin main
+  275  ls
+  276  cd Shankar_Jyothi_A4_shell
+  277  ls
+  278  cd ..
+  279  ls
+  280  mkdir Shankar-J_A4
+  281  ls
+  282  cd Shankar_Jyothi_A4_shell
+  283  ls
+  284  vi class_practice.sh
+  285  cd ..
+  286  ls
+  287  cd Shankar-J_A4 
+  288  ls
+  289  cd ..
+  290  ls
+  291  cd _A4_shell
+  292  cd Shankar-J_A4
+  293  ls
+  294  cd ..
+  295  ls
+  296  cd Shankar_Jyothi_A4_shell
+  297  ls
+  298  vi echoing.sh
+  299  who
+  300  date
+  301  $HOME
+  302  $USER
+  303  USER
+  304  ls
+  305  cd Shankar_Jyothi_A4_shell
+  306  ls
+  307  cd ..
+  308  cd Shankar-J_A4
+  309  ls
+  310  cd _A4_Shell
+  311  cd ..
+  312  cd _A4_shell
+  313  cd Shankar_Jyothi_A4_shell
+  314  ls
+  315  cd ..
+  316  cd  Shankar-J_A4
+  317  ls
+  318  cd ..
+  319  cd CS131_fa24_datafiles
+  320  ls
+  321  cd Shankar-J_A2
+  322  ls
+  323  cd ..
+  324  cd Lec02
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd Shankar-J_A2
+  329  ls
+  330  vi Shankar-J_a2_cmds.log
+  331  cd ..
+  332  ls
+  333  git add .
+  334  git commit -m "Added Mini Assignment updates"
+  335  cd ..
+  336  ls
+  337  cd CS131_fa24_datafiles
+  338  ls
+  339  cd Shankar-J_A2
+  340  ls
+  341  vi Shankar-J_a2_cmds.log
+  342  cd ..
+  343  git pull origin main
+  344  ls
+  345  cd Shankar-J_A2
+  346  ls
+  347  cd ..
+  348  ls
+  349  cd ..
+  350  ls
+  351  cd CS131_fa24_datafiles
+  352  ls
+  353  cd Lec02
+  354  ls
+  355  cd ..
+  356  ls
+  357  cd ..
+  358  ls
+  359  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  360  ls
+  361  cd mini-assignments-jyothi-sh
+  362  ls
+  363  mkdir Shankar-J_A2
+  364  cd Shankar-J_A2
+  365  cd ..
+  366  ls
+  367  cd CS131_fa24_datafiles
+  368  cd
+  369  ls
+  370  cd CS131_fa24_datafiles
+  371  ls
+  372  cd Shankar-J_A2
+  373  ls
+  374  pwd
+  375  cd ..
+  376  ls
+  377  cd mini-assignments-jyothi-sh
+  378  mv /jshankarfa24/CS131_fa24_datafiles/Shankar-J_A2  /jshankarfa24/ mini-assignments-jyothi-sh
+  379  mv /jshankarfa24/CS131_fa24_datafiles/Shankar-J_A2  /jshankarfa24/ mini-assignments-jyothi-sh/
+  380  ls
+  381  cd Shankar-J_A2
+  382  ls
+  383  pwd
+  384  mv /CS131_fa24_datafiles/Shankar-J_A2/ /mini-assignments-jyothi-sh/Shankar-J_A2/
+  385  mv /CS131_fa24_datafiles/Shankar-J_A2 /mini-assignments-jyothi-sh/Shankar-J_A2/
+  386   mv CS131_fa24_datafiles/Shankar-J_A2 mini-assignments-jyothi-sh/Shankar-J_A2/
+  387  mv /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/CS131_fa24_datafiles/Shankar-J_A2 /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2
+  388  ls
+  389  cd ..
+  390  cd Shankar-J_A2
+  391  ls
+  392  cd Shankar-J_A2
+  393  ls
+  394  pwd
+  395  mv /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/Shankar-J_A2 /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2
+  396  mv /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/Shankar-J_A2 /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh
+  397  mv -f /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/Shankar-J_A2 /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh
+  398  ls
+  399  cd ..
+  400  ls
+  401  /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2
+  402  cd ..
+  403  ls
+  404  cd Shankar-J_A2
+  405  ls
+  406  cd Shankar-J_A2
+  407  ls
+  408  vi Shankar-J_A2
+  409  vi Shankar-J_a2_cmds.log
+  410  ls
+  411  cd  CS131_fa24_datafiles
+  412  ls
+  413  cd ..
+  414  ls
+  415  cd mini-assignments-jyothi-sh
+  416  ls
+  417  cd Shankar-J_A2
+  418  ls
+  419  cd Shankar-J_A2
+  420  ls
+  421  rm Shankar-J_A2
+  422  vi Shankar-J_a2_cmds.log
+  423  ls
+  424  cd mini-assignments-jyothi-sh
+  425  ls
+  426  cd Shankar-J_A2
+  427  ls
+  428  cd Shankar-J_A2
+  429  l
+  430  ls
+  431  cd ..
+  432  ls
+  433  cd ..
+  434  ls
+  435  cd Shankar-J_A2/
+  436  ls
+  437  pwd
+  438  mv /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/Shankar-J_A2/Shankar-J_a2_cmds.log /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/
+  439  ls
+  440  mv /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/Shankar-J_A2/Shankar-J_a2_counts.txt /mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A2/
+  441  ls
+  442  cd Shankar-J_A2
+  443  ls
+  444  cd ..
+  445  rm Shankar-J_A2
+  446  rmdir Shankar-J_A2
+  447  ls
+  448  git add Shankar-J_a2_cmds.log
+  449  git add Shankar-J_a2_counts.txt
+  450  git status
+  451  git commit -m "added text and log file"
+  452  git remote set-url origin https://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@github.com/jyothi-sh/mini-assignments-jyothi-sh
+  453  git push
+  454  git remote set-url origin https://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@github.com/
+  455  jyothi-sh/mini-assignments-jyothi-sh/
+  456  ls
+  457  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  458  git push
+  459  ls
+  460  cd mini-assignments-jyothi-sh
+  461  ls
+  462  cd ShankarJ_A4
+  463  git status
+  464  git diff
+  465  git log
+  466  git push
+  467  git push origin main
+  468  git remote -v
+  469  cd mini-assignments-jyothi-sh
+  470  ls
+  471  mkdir ShankarJ_A4
+  472  cd ShankarJ_A4
+  473  vi echoing.sh
+  474  who
+  475  date
+  476  $USER
+  477  $HOME
+  478  HOME
+  479  $USER
+  480  $<VARIABLE>
+  481  echo $USER
+  482  echo $HOME
+  483  echo $<VARIABLE>
+  484  echo $VARIABLE
+  485  ls
+  486  vi echoing.sh
+  487  sh echoing.sh 
+  488  vi echoing.sh
+  489  ls
+  490  sh echoing.sh 
+  491  vi echoing.sh
+  492  sh echoing.sh 
+  493  vi echoing.sh 
+  494  sh echoing.sh 
+  495  wq
+  496  vi echoing.sh 
+  497  sh echoing.sh 
+  498  vi echoing.sh 
+  499  sh echoing.sh 
+  500  vi echoing.sh 
+  501  sh echoing.sh 
+  502  vi echoing.sh 
+  503  sh echoing.sh 
+  504  sh echoing.sh Jyothi 20
+  505  vi echoing.sh 
+  506  sh echoing.sh Jyothu 2)
+  507  sh echoing.sh Jyothi 20
+  508  vi echoing.sh 
+  509  sh echoing.sh Jyothi 20
+  510  vi echoing.sh 
+  511  sh echoing.sh Jyothi 20
+  512  vi echoing.sh 
+  513  sh echoing.sh Jyothi 20
+  514  vi echoing.sh 
+  515  sh echoing.sh Jyothi 20
+  516  vi echoing.sh 
+  517  sh echoing.sh jyothi 20
+  518  ls
+  519  cd ..
+  520  git add .
+  521  git status
+  522  git commit -m "A4 assignment"
+  523  git push
+  524  git status
+  525  git push
+  526  clear
+  527  git status
+  528  git push
+  529  git remote set-url origin https://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@github.com/jyothi-sh/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  530  git push
+  531  pwd
+  532  ls
+  533  vi a2_shell_log.txt 
+  534  ls
+  535  vi Shankar-J_A2/
+  536  ls
+  537  cd Shankar-J_A2
+  538  ls
+  539  vi Shankar-J_a2_cmds.log 
+  540  ls
+  541  pwd
+  542  cd ..
+  543  pwd
+  544  git log
+  545  git push origin main
+  546  pwd
+  547  git remote show origin
+  548  git remote show
+  549  git remote show origin
+  550  git credential-manager uninstall
+  551  git remote set-url origin https://github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  552  git log
+  553  git push origin main
+  554  clear
+  555  cd
+  556  ls
+  557  cd mini-assignments-jyothi-sh
+  558  clear
+  559  git status
+  560  git remote set-url origin https://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@github.com/jyothi-sh/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  561  git push
+  562  git commit -m "A4 assignment"
+  563  git push origin main
+  564  git remote -v
+  565  l
+  566  ls
+  567  cd mini-assignments-jyothi-sh
+  568  https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  569  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  570  git push
+  571  clear
+  572  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  573  git push
+  574  clear
+  575  ls
+  576  clear
+  577  ls
+  578  clear
+  579  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  580  git push
+  581  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  582  git push
+  583  ls
+  584  vi ShankarJ_A4
+  585  cd ShankarJ_A4
+  586  vi echoing.sh 
+  587  cd ..
+  588  git fetch --all
+  589  git branch backup-main
+  590  git reset --hard origin/main
+  591  ls
+  592  mkdir ShankarJ_A4
+  593  cd ShankarJ_A4
+  594  vi echoing.sh
+  595  sh echoing.sh jyothi 20
+  596  cd ..
+  597  git add .
+  598  git commit -m "A4 assignment"
+  599  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  600  git push
+  601  ls
+  602  cd mini-assignments-jyothi-sh
+  603  ls
+  604  mkdir ShankarJ_A5
+  605  cd ShankarJ_A5
+  606  vi age.sh
+  607  sh age.sh 5
+  608  sh age.sh 17
+  609  sh age.sh 48
+  610  sh age.sh 72
+  611  vi age.sh
+  612  vi temperature.sh
+  613  sh temperature.sh 62
+  614  vi temperature.sh 
+  615  sh temperature.sh 
+  616  sh temperature.sh 62
+  617  sh temperature.sh 5
+  618  sh temperature.sh 97
+  619  sh temperature.sh 73
+  620  pwd
+  621  ls
+  622  cd mini-assignments-jyothi-sh
+  623  ls
+  624  cd ShankarJ_A5
+  625  cd ..
+  626  git add .
+  627  git status
+  628  cd ShankarJ_A5
+  629  git add .
+  630  git status
+  631  git push
+  632  git add .
+  633  git status
+  634   git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  635  git commit -m "A5 assignment"
+  636  git push
+  637  ls
+  638  cd ..
+  639  ls
+  640  cd ShankarJ_A4
+  641  ls
+  642  cd ..
+  643  ls
+  644  cd Shankar-J
+  645  cd Shankar-J_A2
+  646  ls
+  647  cd ..
+  648  ls
+  649  cd mini-assignments-jyothi-sh
+  650  ls
+  651  cd ShankarJ_A5
+  652  ls
+  653  sh temperature.sh 86
+  654  31
+  655  sh temperature.sh 34
+  656  sh temperature.sh 56
+  657  sh temperature.sh 15567887654456787
+  658  sh age.sh 18
+  659  sh age.sh 40
+  660  sh age.sh 1
+  661  sh age.sh 0
+  662  sh age.sh -14
+  663  sh. age.sh 99
+  664  sh age.sh 99
+  665  sh age.sh jyothi sucks
+  666  ls
+  667  sh temperature.sh 93
+  668  ls
+  669  cd mini-assignments-jyothi-sh
+  670  awk -F, '{print $4}' airline_stats.csv | sort | uniq
+  671  cd ..
+  672  cd CS131_fa24_datafiles
+  673  ls
+  674  lec07
+  675  cd lec07
+  676  ls
+  677  cd Loc07
+  678  cd Lec07
+  679  ls
+  680  awk -F, '{print $4}' airline_stats.csv | sort | uniq
+  681  cd ..
+  682  ls
+  683  cd Lec06
+  684  ls
+  685  awk -F, '{print $4}' airline_stats.csv | sort | uniq
+  686  cd ..
+  687  cd CS131_fa24_datafiles
+  688  git pull
+  689  ls
+  690  cd Lec08
+  691  awk -F, '{print $4}' airline_stats.csv | sort | uniq
+  692  awk -F, '{print $4}' airline_stats.csv
+  693  wq
+  694  clear
+  695  vi answer.txt
+  696  awk -F, '$1 > 10 {print $4}' airline_stats.csv
+  697  wq
+  698  cd answers.txt
+  699  vi answers.txt
+  700  vi answer.txt
+  701  cd Lec08
+  702  ls
+  703  cd CS131_fa24_datafiles
+  704  ls
+  705  cd Lec08
+  706  ls
+  707  vi answers.txt
+  708  rm answer.txt
+  709  vi answers.txt
+  710  vi answer.txt
+  711  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+  712  wq
+  713  ls
+  714  cd CS131_fa24_datafiles
+  715  ls
+  716  cd Lec08
+  717  ls
+  718  vi answer.txt
+  719  vi answers.txt
+  720  rm answers.txt
+  721  vi answer.txt
+  722  vi answer.txt 
+  723  Threshold=15
+  724  awk -F, -v th=$Threshold '$1 > th {print $4}' airline_stats.csv
+  725  wq
+  726  Threshold=15
+  727  awk -F, -v th=$Threshold '$1 > th {print $4}' airline_stats.csv
+  728  wq
+  729  vi answers.txt
+  730  rm answers.tct
+  731  rm answers.txt
+  732  vi answer.txt 
+  733  ls
+  734  cd CS131_fa24_datafiles
+  735  ls
+  736  cd Lec08
+  737  ls
+  738  vi answer.txt 
+  739  cd ..
+  740  ls
+  741  vi mini-assignments-jyothi-sh
+  742  cd CS131_fa24_datafiles
+  743  vi answers.txt
+  744  rm answers.txt
+  745  ls
+  746  cd Lec08
+  747  vi answers.txt
+  748  rm answers.txt
+  749  ls
+  750  vi answer.txt 
+  751  cd ..
+  752  ls
+  753  ci mini-assignments-jyothi-sh
+  754  cd mini-assignments-jyothi-sh
+  755  ls
+  756  vi ShankarJ_A6
+  757  rm ShankarJ_A6
+  758  mkdir ShankarJ_A6
+  759  vi airline_inquiry.txt
+  760  history>a6_cmds.log

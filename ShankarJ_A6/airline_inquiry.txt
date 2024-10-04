@@ -1,0 +1,8 @@
+1.
+   awk -F, '{print $4}' airline_stats.csv
+   awk -F, '{print $4}' airline_stats.csv | sort | uniq
+
+2.
+   a)  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+   b)  Threshold=15
+       awk -F, -v th=$Threshold '$1 > th {print $4}' airline_stats.csv
