@@ -51,9 +51,9 @@
    51  vi Collaborators.md
    52  git commit -m "Jyothi Shankar added to collaborators"
    53  git push
-   54  git remote set-url origin https:/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@github.com/jyothi-sh/a1-collab-jyothi-sh
+   54  
    55  git push
-   56  git remote set-url origin https://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@github.com/jyothi-sh/a1-collab-jyothi-sh
+   56  
    57  git push
    58  ls
    59  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
@@ -449,12 +449,12 @@
   449  git add Shankar-J_a2_counts.txt
   450  git status
   451  git commit -m "added text and log file"
-  452  git remote set-url origin https://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@github.com/jyothi-sh/mini-assignments-jyothi-sh
+  452 
   453  git push
-  454  git remote set-url origin https://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@github.com/
+  454  
   455  jyothi-sh/mini-assignments-jyothi-sh/
   456  ls
-  457  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  457  
   458  git push
   459  ls
   460  cd mini-assignments-jyothi-sh
@@ -526,7 +526,7 @@
   526  clear
   527  git status
   528  git push
-  529  git remote set-url origin https://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@github.com/jyothi-sh/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  529  
   530  git push
   531  pwd
   532  ls
@@ -557,7 +557,7 @@
   557  cd mini-assignments-jyothi-sh
   558  clear
   559  git status
-  560  git remote set-url origin https://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@github.com/jyothi-sh/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  560  
   561  git push
   562  git commit -m "A4 assignment"
   563  git push origin main
@@ -565,20 +565,20 @@
   565  l
   566  ls
   567  cd mini-assignments-jyothi-sh
-  568  https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
-  569  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  568  
+  569  
   570  git push
   571  clear
-  572  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  572  
   573  git push
   574  clear
   575  ls
   576  clear
   577  ls
   578  clear
-  579  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  579  
   580  git push
-  581  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  581  
   582  git push
   583  ls
   584  vi ShankarJ_A4
@@ -596,7 +596,7 @@
   596  cd ..
   597  git add .
   598  git commit -m "A4 assignment"
-  599  git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  599  
   600  git push
   601  ls
   602  cd mini-assignments-jyothi-sh
@@ -631,7 +631,7 @@
   631  git push
   632  git add .
   633  git status
-  634   git remote set-url origin https://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@github.com/CS131-BigDataProcessing/mini-assignments-jyothi-sh.git
+  634  
   635  git commit -m "A5 assignment"
   636  git push
   637  ls
