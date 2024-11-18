@@ -1,0 +1,5 @@
+1.
+One other task that could benefit from automation using cron is running a script to upload data to a certain database. Since this task may need to be done at a certain time and at a certain frequency this task could benefit from automation. The second task that could benefit from automation is running a script that would send analysis reports to stakeholders. Since stakeholders may expect reports every week or day, automation can be used to make sure this is done on time.
+
+2.
+Poorly managed automation tasks may have a catastrophic effect on multiple systems, as different automation tasks may have different interdependencies. Therefore, if a certain task fails or doesn't occur on time, then this may impact other tasks or processes that are dependent on this particular task. These risks can be avoided by making sure each task works independently and collectively before starting to use the automation regularly.
