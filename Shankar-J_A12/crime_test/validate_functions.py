@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('/file/path')
+df = pd.read_csv('/mnt/scratch/FA24_CS131_Jessica/jshankarfa24/mini-assignments-jyothi-sh/Shankar-J_A12/crime_test/Crime_Data_from_2020_to_Present.csv')
 
 
 def vict_sex_column_check():
